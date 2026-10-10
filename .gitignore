@@ -1,0 +1,20 @@
+# Object files and build binaries
+build/
+bin/
+shellcraft
+
+# Temporary and test artifacts
+*.log
+*.tmp
+/tmp/shellcraft*
+*.txt.out
+valgrind-out.txt
+vgcore.*
+core
+core.*
+
+# IDE and OS artifacts
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

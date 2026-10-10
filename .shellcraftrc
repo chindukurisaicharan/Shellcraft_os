@@ -1,0 +1,16 @@
+# Shellcraft Startup Configuration File
+# Loaded automatically upon startup
+
+# Useful command aliases
+alias ll='ls -la'
+alias la='ls -A'
+alias l='ls -CF'
+alias gs='git status'
+alias gp='git push'
+alias gl='git log --oneline -n 10'
+alias c='clear'
+alias h='history'
+
+# Environment setup
+export PROJECT="Shellcraft"
+export SHELL="shellcraft"
